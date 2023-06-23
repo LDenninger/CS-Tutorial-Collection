@@ -4,9 +4,9 @@ This repository holds a collection of links to helpful tutorials and lectures fo
 ## Software Engineering
 
 ## C++
-Beginners Tutorial: https://www.w3schools.com/cpp/
+<b>Beginners Tutorial<b/>: https://www.w3schools.com/cpp/
 
 ## Python
 Beginners Tutorial: https://www.w3schools.com/python/default.asp
 
-##
+## Deep Learning
