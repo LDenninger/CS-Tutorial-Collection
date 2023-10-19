@@ -18,7 +18,7 @@ Beginners Tutorial: https://www.w3schools.com/python/default.asp
 
 ## Computer Vision
 ### Lectures
-Multi View Geometry (Prof. Daneil Cremers, TUM): https://www.youtube.com/watch?v=RDkwklFGMfo&list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4
+Multi View Geometry (Prof. Daniel Cremers, TUM): https://www.youtube.com/watch?v=RDkwklFGMfo&list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4
 
 ### Visual Odometry
 **Basics**: https://www.youtube.com/watch?v=VOlYuK6AtAE
